@@ -1,0 +1,43 @@
+/*主页字体设置*/
+html{
+font-size:10px;
+font-family:"Open Sans",sans-serif;
+}
+
+/*主页主标题字体*/
+h2{
+font-size:60px;
+text-align:center;
+}
+
+/*主页文档字体*/
+p{
+font-size:16px;
+line-height:2;
+letter-spacing:1px;
+}
+
+
+/*主页文档背景*/
+body{
+width:600px;
+margin:	0 auto;
+background-color:#ffff0021;
+padding:0 20px 20px 20px;
+border:5px solid black;
+
+}
+
+
+/*主页背景*/
+html{
+background-color:#d955ad6d;
+}
+
+/*主页照片*/
+img{
+	display:block;
+	margin:0 auto;
+	/*大小*/
+	width:75%;
+}
